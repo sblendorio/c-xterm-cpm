@@ -1,5 +1,5 @@
 ### News
-Have a look to [**Gorilla-CPM**](https://github.com/sblendorio/hangman-cpm), a C game for **CP/M** using XTerm
+Have a look to [**Hangman-CPM**](https://github.com/sblendorio/hangman-cpm), a C game for **CP/M** using XTerm
 
 # XTerm for CP/M
 

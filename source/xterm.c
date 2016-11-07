@@ -91,7 +91,7 @@ void InitWithNoColors() {
 }
 
 void CursorXYVT52(int x, int y) {
-	printf("\033Y%c%C", y+31, x+31);
+	printf("\033Y%c%c", y+31, x+31);
 }
 
 void CursorXYVT100(int x, int y) {
@@ -321,7 +321,7 @@ void AskTermType(int argc, char *argv[]) {
 	if (t<=INVALID || t>=LAST) {
 		printf("Select a terminal type (or specify it on command line):\n");
 		PrintTermTypeList();
-		printf("\n> ");
+		printf("\n>");
 		do {
 			c = ReadChar();
 			t = c-'0';

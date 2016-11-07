@@ -326,8 +326,8 @@ void AskTermType(int argc, char *argv[]) {
 			c = ReadChar();
 			t = c-'0';
 		} while (t<=INVALID || t>=LAST);
+		printf("%c\n",c);
 	}
-	printf("%c\n",c);
 	SetTermType(t);
 }
 

@@ -25,7 +25,7 @@ written to be also source-level compatible with:
 * Amstrad **CPC** 6128 / Zenith Z19 (monochrome)
 
 ##Contents of package
-- **source** - Source code in **Turbo Modula-2** (Borland)
+- **source** - Source code in **C**
  - [**xterm.h**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.h) - Header file
  - [**xterm.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Implementation.
  - [**termtest.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Test for main functionalities

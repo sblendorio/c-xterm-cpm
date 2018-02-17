@@ -24,7 +24,7 @@ written to be also source-level compatible with:
 * **Memotech** (monochrome)
 * Amstrad **CPC** 6128 / Zenith Z19 (monochrome)
 
-##Contents of package
+## Contents of package
 - **source** - Source code in **C**
  - [**xterm.h**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.h) - Header file
  - [**xterm.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Implementation.

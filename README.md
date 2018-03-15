@@ -26,6 +26,6 @@ written to be also source-level compatible with:
 
 ## Contents of package
 - **source** - Source code in **C**
- - [**xterm.h**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.h) - Header file
- - [**xterm.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Implementation.
- - [**termtest.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Test for main functionalities
+  - [**xterm.h**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.h) - Header file
+  - [**xterm.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Implementation.
+  - [**termtest.c**](https://github.com/sblendorio/c-xterm-cpm/blob/master/source/xterm.c) - Test for main functionalities
